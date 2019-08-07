@@ -4,6 +4,7 @@
 
 * [Скачать Python для Windows 64-bit](https://www.python.org/ftp/python/3.7.4/python-3.7.4-amd64.exe) (рекомендуется)
 * [Скачать Python для Windows 32-bit](https://www.python.org/ftp/python/3.7.4/python-3.7.4.exe) (если 64-бит не работает)
+* [Скачать вторую часть туториала](https://github.com/deker104/python-tutorial/releases/download/v1.1/release-v1.1.zip)
 * Во время установки Python нужно не забыть нажать галочку *Add Python 3.7 to PATH*!
 ![](images/e156916ffc6a9da0.png)
 
